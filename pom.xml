@@ -27,13 +27,13 @@
  <distributionManagement>
     <repository>
         <id>central</id>
-        <name>S40-Batch-releases</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>S42-Batch-releases</name>
+        <url>http://18.223.120.181:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S40-Batch-snapshots</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>S42-Batch-snapshots</name>
+        <url>http://18.223.120.181:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
