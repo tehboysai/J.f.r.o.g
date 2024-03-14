@@ -27,13 +27,13 @@
  <distributionManagement>
     <repository>
         <id>central</id>
-        <name>S42-Batch-releases</name>
-        <url>http://18.223.120.181:8081/artifactory/vmtutes-repo</url>
+        <name>ip-172-31-34-248-releases</name>
+        <url>http://54.161.108.174:8082/artifactory/vm-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S42-Batch-snapshots</name>
-        <url>http://18.223.120.181:8081/artifactory/vmtutes-repo</url>
+        <name>ip-172-31-34-248-snapshots</name>
+        <url>http://54.161.108.174:8082/artifactory/vm-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
